@@ -1,0 +1,8 @@
+LINK ENSINANDO COMO INSTALAR OS DRIVERS DO ARDUINO!
+
+https://www.youtube.com/watch?v=UeoVNUOA7wI
+
+-A pasta que o amigo do video se refere esta na pasta arduino;
+-Instale o driver antes de utilizar o programa;
+-E o programa está na pasta GestorDeTransito, sempre abra o programa dentro da pasta, senão dará problemas. Pode adicionar um atalho do programa na área de trabalho que funcionará corretamente.  
+
